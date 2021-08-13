@@ -1,0 +1,10 @@
+F:\New folder (2)\employeeManagement\employeeManagement\bin\Debug\netcoreapp3.1\employeeManagement.deps.json
+F:\New folder (2)\employeeManagement\employeeManagement\bin\Debug\netcoreapp3.1\employeeManagement.dll
+F:\New folder (2)\employeeManagement\employeeManagement\bin\Debug\netcoreapp3.1\employeeManagement.pdb
+F:\New folder (2)\employeeManagement\employeeManagement\obj\Debug\netcoreapp3.1\employeeManagement.csproj.AssemblyReference.cache
+F:\New folder (2)\employeeManagement\employeeManagement\obj\Debug\netcoreapp3.1\employeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder (2)\employeeManagement\employeeManagement\obj\Debug\netcoreapp3.1\employeeManagement.AssemblyInfoInputs.cache
+F:\New folder (2)\employeeManagement\employeeManagement\obj\Debug\netcoreapp3.1\employeeManagement.AssemblyInfo.cs
+F:\New folder (2)\employeeManagement\employeeManagement\obj\Debug\netcoreapp3.1\employeeManagement.csproj.CoreCompileInputs.cache
+F:\New folder (2)\employeeManagement\employeeManagement\obj\Debug\netcoreapp3.1\employeeManagement.dll
+F:\New folder (2)\employeeManagement\employeeManagement\obj\Debug\netcoreapp3.1\employeeManagement.pdb

@@ -1,0 +1,8 @@
+F:\New folder (2)\Exercise01\Exercise01\bin\Debug\netcoreapp3.1\Exercise01.deps.json
+F:\New folder (2)\Exercise01\Exercise01\bin\Debug\netcoreapp3.1\Exercise01.dll
+F:\New folder (2)\Exercise01\Exercise01\bin\Debug\netcoreapp3.1\Exercise01.pdb
+F:\New folder (2)\Exercise01\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.AssemblyInfoInputs.cache
+F:\New folder (2)\Exercise01\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.AssemblyInfo.cs
+F:\New folder (2)\Exercise01\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.csproj.CoreCompileInputs.cache
+F:\New folder (2)\Exercise01\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.dll
+F:\New folder (2)\Exercise01\Exercise01\obj\Debug\netcoreapp3.1\Exercise01.pdb
